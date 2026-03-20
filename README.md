@@ -1,5 +1,30 @@
 # Research Digest Agent
 
+research-digest-agent/
+│
+├── main.py
+├── ingestion.py
+├── extraction.py
+├── deduplication.py
+├── grouping.py
+├── output.py
+├── utils.py
+│
+├── tests/
+│   ├── test_empty.py
+│   ├── test_dedup.py
+│   ├── test_conflict.py
+│
+├── sample_inputs/
+│   └── urls.txt
+│
+├── outputs/
+│   ├── digest.md
+│   └── sources.json
+│
+├── requirements.txt
+└── README.md
+
 ## Overview
 
 This project implements an autonomous research digest agent that:
