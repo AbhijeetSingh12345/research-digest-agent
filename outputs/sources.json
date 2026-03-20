@@ -1,0 +1,152 @@
+[
+  {
+    "source": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "claims": [
+      {
+        "claim": "Various subfields of AI research are centered around particular goals and the use of particular tools",
+        "evidence": "Various subfields of AI research are centered around particular goals and the use of particular tools",
+        "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      },
+      {
+        "claim": "The general problem of simulating (or creating) intelligence has been broken into subproblems",
+        "evidence": "The general problem of simulating (or creating) intelligence has been broken into subproblems",
+        "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      },
+      {
+        "claim": "These consist of particular traits or capabilities that researchers expect an intelligent system to display",
+        "evidence": "These consist of particular traits or capabilities that researchers expect an intelligent system to display",
+        "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      },
+      {
+        "claim": "The traits described below have received the most attention and cover the scope of AI research",
+        "evidence": "The traits described below have received the most attention and cover the scope of AI research",
+        "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      },
+      {
+        "claim": "Early researchers developed algorithms that imitated step-by-step reasoning that humans use when they solve puzzles or make logical",
+        "evidence": "Early researchers developed algorithms that imitated step-by-step reasoning that humans use when they solve puzzles or make logical",
+        "source": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+      }
+    ]
+  },
+  {
+    "source": "https://en.wikipedia.org/wiki/Machine_learning",
+    "claims": [
+      {
+        "claim": "Machine learning is the study of algorithms that improve automatically through experience",
+        "evidence": "Machine learning is the study of algorithms that improve automatically through experience",
+        "source": "https://en.wikipedia.org/wiki/Machine_learning"
+      },
+      {
+        "claim": "It was repetitively \"trained\" by a human operator/teacher to recognise patterns and equipped with a \"",
+        "evidence": "It was repetitively \"trained\" by a human operator/teacher to recognise patterns and equipped with a \"",
+        "source": "https://en.wikipedia.org/wiki/Machine_learning"
+      },
+      {
+        "claim": "Interest related to pattern recognition continued into the 1970s, as described by Duda and Hart in 1973",
+        "evidence": "Interest related to pattern recognition continued into the 1970s, as described by Duda and Hart in 1973",
+        "source": "https://en.wikipedia.org/wiki/Machine_learning"
+      },
+      {
+        "claim": "This definition of the tasks in which machine learning is concerned offers a fundamentally",
+        "evidence": "This definition of the tasks in which machine learning is concerned offers a fundamentally",
+        "source": "https://en.wikipedia.org/wiki/Machine_learning"
+      },
+      {
+        "claim": "Modern-day Machine Learning algorithms are broken into 3 algorithm types: Supervised Learning Algorithms, Unsupervised Learning Algorithms, and Reinforcement Learning Algorithms",
+        "evidence": "Modern-day Machine Learning algorithms are broken into 3 algorithm types: Supervised Learning Algorithms, Unsupervised Learning Algorithms, and Reinforcement Learning Algorithms",
+        "source": "https://en.wikipedia.org/wiki/Machine_learning"
+      }
+    ]
+  },
+  {
+    "source": "https://en.wikipedia.org/wiki/Deep_learning",
+    "claims": [
+      {
+        "claim": "Representing images on multiple layers of abstraction in deep learning",
+        "evidence": "Representing images on multiple layers of abstraction in deep learning",
+        "source": "https://en.wikipedia.org/wiki/Deep_learning"
+      },
+      {
+        "claim": "The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network",
+        "evidence": "The adjective \"deep\" refers to the use of multiple layers (ranging from three to several hundred or thousands) in the network",
+        "source": "https://en.wikipedia.org/wiki/Deep_learning"
+      },
+      {
+        "claim": "However, current neural networks do not intend to model the brain function of organisms, and are generally seen as low-quality models for that purpose",
+        "evidence": "However, current neural networks do not intend to model the brain function of organisms, and are generally seen as low-quality models for that purpose",
+        "source": "https://en.wikipedia.org/wiki/Deep_learning"
+      },
+      {
+        "claim": "The first representational layer may attempt to identify basic shapes such as lines and circles, the second layer may compose and encode arrangements of edges, the third layer may encode a nose and eyes, and the fourth layer may recognize that the image contains a face",
+        "evidence": "The first representational layer may attempt to identify basic shapes such as lines and circles, the second layer may compose and encode arrangements of edges, the third layer may encode a nose and eyes, and the fourth layer may recognize that the image contains a face",
+        "source": "https://en.wikipedia.org/wiki/Deep_learning"
+      },
+      {
+        "claim": "Importantly, a deep learning process can learn which features to optimally place at which level",
+        "evidence": "Importantly, a deep learning process can learn which features to optimally place at which level",
+        "source": "https://en.wikipedia.org/wiki/Deep_learning"
+      }
+    ]
+  },
+  {
+    "source": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "claims": [
+      {
+        "claim": "The proposed test includes a task that involves the automated interpretation and generation of natural language",
+        "evidence": "The proposed test includes a task that involves the automated interpretation and generation of natural language",
+        "source": "https://en.wikipedia.org/wiki/Natural_language_processing"
+      },
+      {
+        "claim": "The authors claimed that within three or five years, machine translation would be a solved problem",
+        "evidence": "The authors claimed that within three or five years, machine translation would be a solved problem",
+        "source": "https://en.wikipedia.org/wiki/Natural_language_processing"
+      },
+      {
+        "claim": "Little further research in machine translation was conducted in America (though some research continued elsewhere, such as Japan and Europe",
+        "evidence": "Little further research in machine translation was conducted in America (though some research continued elsewhere, such as Japan and Europe",
+        "source": "https://en.wikipedia.org/wiki/Natural_language_processing"
+      },
+      {
+        "claim": "Despite using minimal information about human thought or emotion, ELIZA was able to produce interactions that appeared human-like",
+        "evidence": "Despite using minimal information about human thought or emotion, ELIZA was able to produce interactions that appeared human-like",
+        "source": "https://en.wikipedia.org/wiki/Natural_language_processing"
+      },
+      {
+        "claim": "When the \"patient\" exceeded the very small knowledge base, ELIZA might provide a generic response, for example, responding to \"My head hurts\" with \"Why do you say your head hurts?\"",
+        "evidence": "When the \"patient\" exceeded the very small knowledge base, ELIZA might provide a generic response, for example, responding to \"My head hurts\" with \"Why do you say your head hurts?\"",
+        "source": "https://en.wikipedia.org/wiki/Natural_language_processing"
+      }
+    ]
+  },
+  {
+    "source": "https://en.wikipedia.org/wiki/Computer_vision",
+    "claims": [
+      {
+        "claim": "The technological discipline of computer vision seeks to apply its theories and models to the construction of computer vision systems",
+        "evidence": "The technological discipline of computer vision seeks to apply its theories and models to the construction of computer vision systems",
+        "source": "https://en.wikipedia.org/wiki/Computer_vision"
+      },
+      {
+        "claim": "It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding",
+        "evidence": "It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding",
+        "source": "https://en.wikipedia.org/wiki/Computer_vision"
+      },
+      {
+        "claim": "As a technological discipline, computer vision seeks to apply its theories and models for the construction of computer vision systems",
+        "evidence": "As a technological discipline, computer vision seeks to apply its theories and models for the construction of computer vision systems",
+        "source": "https://en.wikipedia.org/wiki/Computer_vision"
+      },
+      {
+        "claim": "In more recent times, the terms computer vision and machine vision have converged to a greater degree",
+        "evidence": "In more recent times, the terms computer vision and machine vision have converged to a greater degree",
+        "source": "https://en.wikipedia.org/wiki/Computer_vision"
+      },
+      {
+        "claim": "In the late 1960s, computer vision began at universities that were pioneering",
+        "evidence": "In the late 1960s, computer vision began at universities that were pioneering",
+        "source": "https://en.wikipedia.org/wiki/Computer_vision"
+      }
+    ]
+  }
+]

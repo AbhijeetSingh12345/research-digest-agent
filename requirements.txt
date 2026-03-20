@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+openai
+sentence-transformers
+scikit-learn
+tqdm
